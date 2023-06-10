@@ -5,6 +5,6 @@
 
 ## Despripcion
 
-## Desprpicion
+## Funcionamiento
 
 ![](img/Arbol.jpg)
