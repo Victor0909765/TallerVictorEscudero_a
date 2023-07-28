@@ -8,3 +8,5 @@
 ## Funcionamiento
 
 ![](img/Arbol.jpg)
+![](img/tapa.jpg)
+
